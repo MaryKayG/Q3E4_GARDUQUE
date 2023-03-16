@@ -1,0 +1,32 @@
+.title {
+    font-size: 85px;
+    line-height: 50px;
+    font-family: 'Kanit', sans-serif;
+    color: blueviolet;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.title2 {
+    font-size: 30px;
+    line-height: 30px;
+    font-family: 'Prompt', sans-serif;
+    color: black;
+    margin-top: 10px;
+    }
+
+.title4 {
+    font-size: 30px;
+    line-height: 30px;
+    font-family: 'Rajdhani', sans-serif;
+    color: black;
+    margin-top: 10px;
+    }
+
+.title3 {
+    font-size: 30px;
+    line-height: 30px;
+    font-family: 'Orbitron', sans-serif;
+    color: black;
+    margin-top: 10px;
+    }
